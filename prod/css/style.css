@@ -517,7 +517,7 @@ position: relative;
     display:flex;
     margin: 30px 50px;
   }
-  /*надо задать еще position relative and overflow hidden*/
+  
   
   .social__icon{
     text-decoration: none;
