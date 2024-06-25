@@ -17,9 +17,9 @@ The web page includes the following functionality:
 ## How to Use
 
 1. Download or clone the entire project code to your computer.
-
+```sh
 git clone https://github.com/KindrakevychNatali/Project.git
-
+```
 2. Open the `index.html` file in a web browser.
 3. Interact with the elements on the page and observe the results.
 
