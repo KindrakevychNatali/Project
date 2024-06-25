@@ -1,5 +1,4 @@
-# Project
-```markdown
+
 # Simple Vanilla JavaScript Web Page
 
 This project is a simple web page developed using pure vanilla JavaScript without any frameworks or libraries.
@@ -35,6 +34,6 @@ Author: [Nataliia Kindrakevych](https://github.com/KindrakevychNatali)
 ## License
 
 This project is licensed under the [ISC License](link-to-license).
-```
+
 
 This `README.md` file provides essential sections to briefly describe the project, its functionality, usage instructions, system requirements (if any), author information, and licensing details. 
